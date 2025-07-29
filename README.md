@@ -32,17 +32,20 @@ Um template moderno e pronto para uso de React Native com TypeScript e NativeWin
 ## 🚀 Instalação
 
 1. **Clone o template:**
+
 ```bash
 npx create-expo-app@latest meu-app --template .
 ```
 
 2. **Instale as dependências:**
+
 ```bash
 cd meu-app
 npm install
 ```
 
 3. **Inicie o projeto:**
+
 ```bash
 npm start
 ```
@@ -89,13 +92,13 @@ O template inclui um sistema de cores completo e personalizável. Para modificar
 export const colors = {
   // Suas cores principais
   primary: "#FF6B35",
-  secondary: "#2E8B57", 
+  secondary: "#2E8B57",
   accent: "#FFD700",
-  
+
   // Backgrounds
   "background-primary": "#FFFFFF",
   "background-secondary": "#F8FAFC",
-  
+
   // Textos
   "text-primary": "#1E293B",
   "text-secondary": "#64748B",
@@ -119,17 +122,20 @@ src/
 ## 🎯 Telas Incluídas
 
 ### 🏠 Home
+
 - Layout responsivo com cards
 - Botões de ação
 - Lista de atividades
 - Header com navegação
 
 ### 👤 Profile
+
 - Tela de perfil do usuário
 - Informações pessoais
 - Configurações
 
 ### 🎨 ColorDemo
+
 - Demonstração visual da paleta
 - Exemplos de uso das cores
 - Componentes de interface
@@ -146,14 +152,12 @@ O template já está configurado com NativeWind. Principais arquivos:
 ### Uso das Classes:
 
 ```tsx
-import { View, Text } from 'react-native';
+import { View, Text } from "react-native";
 
 export default function MeuComponente() {
   return (
     <View className="flex-1 bg-background-primary p-4">
-      <Text className="text-text-primary text-xl font-bold">
-        Olá, Mundo!
-      </Text>
+      <Text className="text-text-primary text-xl font-bold">Olá, Mundo!</Text>
     </View>
   );
 }
@@ -164,12 +168,14 @@ export default function MeuComponente() {
 O template inclui um sistema de design completo:
 
 ### Cores Disponíveis:
+
 - **Primárias**: `primary`, `secondary`, `accent`
 - **Backgrounds**: `background-primary`, `background-secondary`, `background-tertiary`
 - **Textos**: `text-primary`, `text-secondary`, `text-muted`, `text-accent`
 - **Estados**: `success`, `warning`, `error`, `info`
 
 ### Componentes Prontos:
+
 - Botões com diferentes variantes
 - Cards informativos
 - Badges e tags
@@ -181,9 +187,10 @@ O template inclui um sistema de design completo:
 
 1. **Crie uma nova pasta em `src/screens/`**
 2. **Adicione o componente:**
+
 ```tsx
-import React from 'react';
-import { View, Text } from 'react-native';
+import React from "react";
+import { View, Text } from "react-native";
 
 export default function NovaTela() {
   return (
@@ -195,8 +202,9 @@ export default function NovaTela() {
 ```
 
 3. **Importe no `App.tsx`:**
+
 ```tsx
-import NovaTela from './src/screens/NovaTela';
+import NovaTela from "./src/screens/NovaTela";
 ```
 
 ### Adicionando Componentes:
@@ -208,16 +216,19 @@ import NovaTela from './src/screens/NovaTela';
 ## 🚀 Build e Deploy
 
 ### Para Android:
+
 ```bash
 npm run android
 ```
 
 ### Para iOS:
+
 ```bash
 npm run ios
 ```
 
 ### Para Web:
+
 ```bash
 npm run web
 ```
