@@ -90,7 +90,7 @@ O template inclui um sistema de design completo:
 <div align="center">
   <img src="https://i.ibb.co/DPjjZQXk/Simulator-Screenshot-i-Phone-16-Plus-2025-07-29-at-19-20-50.png" width="200px" />
   <img src="https://i.ibb.co/Xxj08XmJ/Simulator-Screenshot-i-Phone-16-Plus-2025-07-29-at-19-20-57.png" width="200px" />
-  <img src="https://i.ibb.co/y9TBLkJ/Simulator-Screenshot-i-Phone-16-Plus-2025-07-29-at-19-21-00-2.png" width="200px" />
+  <img src="https://github.com/user-attachments/assets/602e66cf-b410-4a5b-82fb-f58bd0b4684a" width="200px" />
 </div>
 
 ---
