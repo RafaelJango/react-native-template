@@ -85,6 +85,16 @@ O template inclui um sistema de design completo:
 - **Textos**: `text-primary`, `text-secondary`, `text-muted`, `text-accent`
 - **Estados**: `success`, `warning`, `error`, `info`
 
+## **Screenshots**
+
+<div align="center">
+  <img src="https://i.ibb.co/DPjjZQXk/Simulator-Screenshot-i-Phone-16-Plus-2025-07-29-at-19-20-50.png" width="200px" />
+  <img src="https://i.ibb.co/Xxj08XmJ/Simulator-Screenshot-i-Phone-16-Plus-2025-07-29-at-19-20-57.png" width="200px" />
+  <img src="https://i.ibb.co/y9TBLkJ/Simulator-Screenshot-i-Phone-16-Plus-2025-07-29-at-19-21-00-2.png" width="200px" />
+</div>
+
+---
+
 ## 📱 Desenvolvimento
 
 ### Adicionando Novas Telas:
